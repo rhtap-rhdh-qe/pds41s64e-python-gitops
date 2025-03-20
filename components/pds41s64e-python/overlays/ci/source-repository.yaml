@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pds41s64e-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pds41s64e-python
